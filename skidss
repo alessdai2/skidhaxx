@@ -1,0 +1,13 @@
+-- ZAZA, ya
+--[[
+ZAZA, ya
+AztupBrew(Fork of IronBrew2): obfuscation; Version 2.7.2
+
+here my github yes yes
+https://github.com/alessdai2/skidhaxx
+]]
+_G.seb4349494404004404 = {
+	key = "KEY", -- if you have a key, put it here [replace KEY with your actual key], key shouldnt exist rn
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/alessdai2/skidhaxx/main/main", true))
